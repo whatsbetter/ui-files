@@ -1,5 +1,5 @@
 {
-  "name": "ui-images",
+  "name": "wb-static",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,10 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.190.0",
-    "git-state": "^4.0.0",
-    "git-utils": "^5.2.1",
-    "nodegit": "^0.20.3",
-    "s3": "^4.4.0",
+    "mime-types": "^2.1.17",
     "simple-git": "^1.89.0"
   }
 }
