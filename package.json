@@ -1,0 +1,19 @@
+{
+  "name": "ui-images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.190.0",
+    "git-state": "^4.0.0",
+    "git-utils": "^5.2.1",
+    "nodegit": "^0.20.3",
+    "s3": "^4.4.0",
+    "simple-git": "^1.89.0"
+  }
+}
