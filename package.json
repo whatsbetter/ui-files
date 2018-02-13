@@ -11,6 +11,8 @@
   "dependencies": {
     "aws-sdk": "^2.190.0",
     "mime-types": "^2.1.17",
-    "simple-git": "^1.89.0"
+    "simple-git": "^1.89.0",
+    "trim": "0.0.1",
+    "watchr": "^4.0.1"
   }
 }
