@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="36px" viewBox="0 0 37 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-3.2%" y="-25.0%" width="106.4%" height="150.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="MVP-1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="friends_scroll" transform="translate(-44.000000, -619.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="ask" filter="url(#filter-1)" transform="translate(0.000000, 619.000000)">
+                <g id="nav">
+                    <g id="chanels">
+                        <g id="icons8-chat" transform="translate(52.000000, 8.000000)">
+                            <path d="M8.8,0 C3.94,0 0,3.5816 0,8 C0,10.2692832 1.04650184,12.3102168 2.71718752,13.7640624 C2.47755128,14.5488384 1.97768144,15.3293592 1.05937504,16.025 C1.05885563,16.0255222 1.05833477,16.026043 1.05781248,16.0265624 C0.902749303,16.085534 0.800181555,16.2341018 0.8,16.4 C0.8,16.6209139 0.9790861,16.8 1.2,16.8 C1.22733253,16.7996593 1.25455814,16.7965178 1.28125,16.7906248 C2.83330456,16.7861024 4.15755384,16.12314 5.21093752,15.2921872 C5.71081632,15.4955144 6.23261544,15.6631432 6.7765624,15.7796872 C6.5333624,15.0916872 6.4,14.3592 6.4,13.6 C6.4,9.6296 9.9888,6.4 14.4,6.4 C15.5056,6.4 16.5595496,6.6031128 17.5187504,6.9703128 C16.9619496,3.03911248 13.2752,0 8.8,0 Z M14.4,8 C10.8653776,8 8,10.5072054 8,13.6 C8,16.6927946 10.8653776,19.2 14.4,19.2 C15.2183111,19.1988676 16.0287814,19.0604298 16.7875,18.7921872 C17.7685864,19.4775392 18.9558928,19.9858752 20.3156248,19.9906248 C20.3433377,19.996734 20.371622,19.9998768 20.4,20 C20.6209139,20 20.8,19.8209139 20.8,19.6 C20.7997382,19.4323394 20.6949438,19.2826332 20.5375,19.225 C19.8053488,18.6691424 19.3360904,18.0572952 19.0546872,17.4343752 C20.1731587,16.397296 20.7973654,15.0259412 20.8,13.6 C20.8,10.5072054 17.9346224,8 14.4,8 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

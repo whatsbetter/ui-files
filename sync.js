@@ -4,6 +4,7 @@ const s3Upload = require("./s3");
 
 const imgDirectory = './img';
 const fontsDirectory = './fonts';
+const soundsDirectory = './sounds';
 
 function readDir(currentDirPath, callback) {
     fs.readdirSync(currentDirPath).forEach(function (name) {
@@ -19,3 +20,4 @@ function readDir(currentDirPath, callback) {
     
 readDir(imgDirectory, s3Upload);
 readDir(fontsDirectory, s3Upload);
+readDir(soundsDirectory, s3Upload);
