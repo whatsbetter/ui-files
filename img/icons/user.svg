@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4,0 C2.8945315,0 2,0.8945315 2,2 C2,3.105469 2.8945315,4 4,4 C5.105469,4 6,3.105469 6,2 C6,0.8945315 5.105469,0 4,0 Z M4,5 C0.949219,5 0,7 0,7 L0,8 L8,8 L8,7 C8,7 7.0507815,5 4,5 Z" id="Shape" fill="#CCCCCC" fill-rule="nonzero"></path>
+    </g>
+</svg>
