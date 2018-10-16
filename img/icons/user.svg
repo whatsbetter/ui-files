@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 8 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M4,0 C2.8945315,0 2,0.8945315 2,2 C2,3.105469 2.8945315,4 4,4 C5.105469,4 6,3.105469 6,2 C6,0.8945315 5.105469,0 4,0 Z M4,5 C0.949219,5 0,7 0,7 L0,8 L8,8 L8,7 C8,7 7.0507815,5 4,5 Z" id="Shape" fill="#CCCCCC" fill-rule="nonzero"></path>
+        <g id="big_header" transform="translate(-124.000000, -50.000000)" fill="#9B9B9B" fill-rule="nonzero">
+            <g id="header">
+                <g id="summary" transform="translate(16.000000, 48.000000)">
+                    <g id="mentions-copy-3" transform="translate(108.000000, 0.000000)">
+                        <g id="icons8-user" transform="translate(0.000000, 2.000000)">
+                            <path d="M5,0 C3.3490681,0 2,1.3490681 2,3 C2,4.6509319 3.3490681,6 5,6 C6.6509319,6 8,4.6509319 8,3 C8,1.3490681 6.6509319,0 5,0 Z M5,6 C2.2447116,6 0,8.244712 0,11 L1,11 C1,8.785288 2.7852884,7 5,7 C7.214712,7 9,8.785288 9,11 L10,11 C10,8.244712 7.755288,6 5,6 Z M5,1 C6.1104918,1 7,1.8895082 7,3 C7,4.1104918 6.1104918,5 5,5 C3.8895082,5 3,4.1104918 3,3 C3,1.8895082 3.8895082,1 5,1 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
     </g>
 </svg>
